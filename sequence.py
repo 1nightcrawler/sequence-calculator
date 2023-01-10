@@ -1,6 +1,8 @@
 from sympy.solvers import solve
 from sympy import Symbol
 
+#tere:3
+
 class arit():
     
     def find_an():
