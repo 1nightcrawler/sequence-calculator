@@ -1,6 +1,10 @@
 from sympy.solvers import solve
 from sympy import Symbol
 
+<<<<<<< HEAD
+=======
+#tere:3
+>>>>>>> b118c7d57a2eb8abfb32346d8c730cdfc97c3c7f
 
 class arit():
     
