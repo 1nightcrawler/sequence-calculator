@@ -1,5 +1,7 @@
-# python
+# Sequence calculator in Python
 
-python projects i've done/started
+## Arithmetic and geometric sequence solver
 
-sequence.py - arithmetic and geometric sequence solver wip
+Still WIP
+-Geometric requires a1 solution
+-Needs to be checked, to make sure answers are correct
