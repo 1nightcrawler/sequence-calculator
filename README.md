@@ -2,6 +2,6 @@
 
 ## Arithmetic and geometric sequence solver
 
-Still WIP\
+WIP\
 -Geometric requires a1 solution\
 -Needs to be checked, to make sure answers are correct\
