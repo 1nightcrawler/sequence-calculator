@@ -116,8 +116,9 @@ class geom():
         return str(ans[0])
 
 
+    #unfinished
     def find_a1():
-            
+        #Prints formula or how a1 is found
         print('')
         
         ans = int()
